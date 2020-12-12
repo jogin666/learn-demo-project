@@ -1,0 +1,2 @@
+car=com.zy.dubbo.spi.service.impl.BusWheelMaker
+bus=com.zy.dubbo.spi.service.impl.CarWheelMaker
