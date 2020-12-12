@@ -12,7 +12,8 @@
         <module>dubbo-service</module>
         <module>dubbo-config-api</module>
         <module>dubbo-spring</module>
-        <module>dubbo-spi</module>
+        <module>dubbo-self-spi</module>
+        <module>java-spi</module>
     </modules>
 
     <dependencyManagement>
